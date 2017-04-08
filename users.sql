@@ -37,8 +37,7 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `email`, `name`, `password`) VALUES
-(1, 'daniel.poobalan@gmail.com', 'Daniel Poobalan', '$2y$10$lCFyBtYaRA6a.IE18bHNHeoa1m/65HnaZUbLgIFryULep2k1Sc4CW');
+
 
 --
 -- Indexes for dumped tables
